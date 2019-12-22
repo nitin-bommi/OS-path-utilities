@@ -1,5 +1,0 @@
-# creating a file
-f = open("textfile.txt", "w")
-
-# writing some data into the textfile
-f.write("Hey... I'm a text file.")
